@@ -1,0 +1,32 @@
+.about {
+  padding: 2rem;
+  line-height: 1.6;
+  color: #333;
+}
+
+.about h2 {
+  color: #d84315;
+  margin-bottom: 1rem;
+}
+
+.about p {
+  margin-bottom: 1rem;
+  text-align: justify;
+}
+
+.about-highlight {
+  background-color: #fff3e0;
+  border-radius: 10px;
+  padding: 1rem;
+  margin-top: 1.5rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.about-highlight h3 {
+  color: #bf360c;
+}
+
+.about-highlight ul {
+  list-style-type: square;
+  margin-left: 1.5rem;
+}
